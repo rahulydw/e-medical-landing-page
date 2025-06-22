@@ -30,9 +30,24 @@ const Home = ({ sectionRef }) => {
                                 Find & Search Your
                             </h1>
                             {/* Heading-part-2 */}
-                            <h1>
-                                <span className='text-sky-400 '>Favourite</span>&nbsp;Doctor
+                            <h1 className="relative inline-block text-sky-500 font-bold">
+                                <span className="relative z-10">Favourite</span>
+                                <svg
+                                    className="absolute bottom-0 left-0 w-full h-[8px] md:h-[12px] lg:h-[14px] z-0"
+                                    viewBox="0 0 200 20"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    preserveAspectRatio="none"
+                                >
+                                    <path
+                                        d="M0 20 Q100 0 200 20"
+                                        stroke="#0ea5e9"
+                                        strokeWidth="4"
+                                        fill="transparent"
+                                    />
+                                </svg>
                             </h1>
+
                             {/* Slogan-1 */}
                         </div>
                         <p className='py-4 text-wrap w-[100%] md:w-[80%] text-sm md:text-xl'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quisquam vitae accusantium doloremque iure maxime.</p>

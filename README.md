@@ -49,8 +49,13 @@ If you like the design and UI structure, I can upgrade this to:
 
 ## 🖼️ Screenshot
 
-> 📍 Make sure your image is placed in the `assets/` folder with this exact name.
-
 ### 🏠 Home Page Preview
 
-![Home Page Screenshot](./assets/home.png)
+![Home Page Screenshot](./screenshot/home.png)
+
+---
+
+## 🙋‍♂️ Developed & Designed By
+
+Made with ❤️ by [**Rahul Yadav**](https://github.com/rahulydw)  
+This project is for frontend UI practice and open for improvements 🚀

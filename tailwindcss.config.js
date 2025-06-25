@@ -1,5 +1,4 @@
-import { Config } from 'tailwindcss'
-
+// tailwind file
 const config = {
   content: [
     "./index.html",

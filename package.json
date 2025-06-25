@@ -1,8 +1,11 @@
 {
-  "name": "project1",
+  "name": "e-medical",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "A responsive E-Medical landing page created by Rahul Yadav (@rahulydw) for frontend practice using React and TailwindCSS, based on a Figma layout.",
+  "author": "Rahul Yadav (@rahulydw)",
+  "keywords": ["e-medical", "rahul yadav", "healthcare", "react", "vite", "tailwind", "digital health","@rahulydw"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",

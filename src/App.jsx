@@ -59,7 +59,7 @@ const App = () => {
       <header className="fixed top-0 left-0 w-full z-50 backdrop-blur-2xl bg-transparent shadow-md">
         <nav className="w-[90%] mx-auto flex items-center justify-between h-[60px] max-w-7xl">
           {/* Branding */}
-          <div id="Brand" className="inline-flex items-center md:text-2xl font-semibold font-tinos">
+          <div id="Brand" className="inline-flex items-center md:text-2xl font-semibold font-tinos text-xl">
             <a href="#">
               <span className="text-black">E-</span>
               <span className="text-sky-600">Medical</span>

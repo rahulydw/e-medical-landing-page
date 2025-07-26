@@ -51,7 +51,7 @@ If you like the design and UI structure, I can upgrade this to:
 
 ### 🏠 Home Page Preview
 
-![Home Page Screenshot](./screenshot/home.png)
+![Home Page Screenshot](./public/home.png)
 
 ---
 

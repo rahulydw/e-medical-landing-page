@@ -54,8 +54,4 @@ If you like the design and UI structure, I can upgrade this to:
 ![Home Page Screenshot](./public/Home.png)
 
 ---
-
-## 🙋‍♂️ Developed & Designed By
-
-Made with ❤️ by [**Rahul Yadav**](https://github.com/rahulydw)  
-This project is for frontend UI practice and open for improvements 🚀
+### 🚀 Made with 💖 by [Rahul Kumar](https://github.com/rahulydw)
